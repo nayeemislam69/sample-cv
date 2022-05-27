@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: rgba(0, 81, 128, 0.479);
+  font-family: "Libre Bodoni", serif;
+}
+.container {
+  background-color: rgba(43, 255, 0, 0.758);
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 20px;
+}
+.profile-image {
+  height: 100px;
+  width: 120px;
+  border: 2px solid white;
+  border-radius: 50px;
+  float: left;
+}
+.header-bio {
+  float: left;
+  padding: 20px;
+}
+h1, h2, h3, h4, h5, h6{
+    color: rgba(0, 12, 242, 0.82);
+}
+.header-contact{
+    float: right;
+    padding: 20px;
+}
+.header-contact a{
+     text-decoration: none;
+     color: rgba(0, 12, 242, 0.82);
+     font-weight: bold;
+}
+.header-contact a:hover{
+    border: u;text-decoration: underline;
+    color: aqua;
+}
+.clear{
+    clear: both;
+}
+hr{
+    border: 2px solid black;
+    margin: 10px auto;
+}

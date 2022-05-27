@@ -1,0 +1,36 @@
+/* personal information */
+.content{
+margin: 30px 0;
+}
+.left-div{
+width: 30%;
+float: left;
+}
+.right-div{
+    width: 70%;
+    float: left ;
+}
+/* personal information */
+.common-hr{
+    border: 1px solid black;
+    border-bottom: none;
+    margin: 20px auto;
+    width: 100%;
+}
+
+.edu-left{
+    float: left;
+    width: 45%;
+}
+.edu-right{
+    float: right;
+    width: 45%;
+}
+.Ref-left{
+    float: left;
+    width: 45%;
+}
+.Ref-right{
+    float: right;
+    width: 45%;
+}
